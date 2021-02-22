@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ngerber06/projectserver/issues"
   },
-  "homepage": "https://github.com/ngerber06/projectserver#readme"
+  "homepage": "https://github.com/ngerber06/projectserver#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
 }
